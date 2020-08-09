@@ -1,0 +1,74 @@
+omesairam
+========
+
+https://developer.mongodb.com/quickstart/java-change-streams
+
+
+https://cloud.spring.io/spring-cloud-static/spring-cloud-stream-binder-rabbit/2.2.0.M1/spring-cloud-stream-binder-rabbit.html
+
+
+https://www.javainuse.com/messaging/rabbitmq/error
+
+
+https://www.javainuse.com/spring/cloud-stream-rabbitmq-1
+
+
+saipradeep.tellakula@mphasis.com
+
+
+ribbon
+sluth
+zuul
+circute breaker
+erukaserver
+configserver
+zipken
+
+
+---------
+mppdynimic
+jmeter
+promethis,
+graphana,
+
+SpringBoot-Micrometer-Prometheus-Grafana
+==============================================
+Netflex-hystrix
+
+
+===============================
+https://apps.powerapps.com/play/186bf54b-34fb-4d97-89ff-8ca2408daf1f?tenantId=665b6c62-7310-4d39-9abb-32a0cbc3b90f
+
+https://www.javainuse.com/spring/spring_ribbon
+
+Netflix          Component Name	Functionality
+
+
+Eureka	         Service Registration and Discovery
+Ribbon	         Dynamic Routing and Load Balancer
+Hystrix          Circuit Breaker
+Zuul	         Edge Server
+configserver     propertychnages
+zipkin           Trasing
+sluth            spamid
+fignclient
+resttemplet
+
+pcf:
+
+Eureka	
+config server.
+Ribbon
+Hystrix   
+Zuul	         
+zipkin   
+sluth
+
+
+
+rabbit
+mongodb
+spring boot
+restservices
+java 8.
+sluth                         
